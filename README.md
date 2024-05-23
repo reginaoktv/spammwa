@@ -60,7 +60,7 @@ python main.py
 ### <p style="color:red">NOTE: Instalasi Tanpa GIT</p> Jika kamu **TIDAK** memiliki [GIT](https://git-scm.com/downloads) maka,
 - **Download Manual:**
 [Download MySPAMBot-OTP](https://github.com/reginaoktv/spammwa) <br>
-- Extract **MySPAMBot-OTP-v1.0.9-windows.rar**
+- Extract **spammwa.rar**
 - **Buka CMD / Command Prompt (atau terminal VSCode)**
 - **Ketik ini untuk masuk kedalam Folder MySPAMBot-OTP**
 ```sh
